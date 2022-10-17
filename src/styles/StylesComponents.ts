@@ -1,5 +1,5 @@
 import {createGlobalStyle} from 'styled-components';
-import Page from '../components/Page';
+
 
 export const GlobalStyles = createGlobalStyle`
 *{

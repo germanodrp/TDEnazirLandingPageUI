@@ -20,13 +20,7 @@ const UniqueOverlay: React.FC = () => {
       <Footer style={{ opacity }}>
         <ul>
           <li>
-            <a href="#">UI Clone</a>
-          </li>
-          <li>
-            <a href="#">made with 💜</a>
-          </li>
-          <li>
-            <a href="#">by Guilherme Rodz</a>
+            <a href="#">by Germano Dias</a>
           </li>
         </ul>
       </Footer>
